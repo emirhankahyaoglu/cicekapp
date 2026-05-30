@@ -19,10 +19,10 @@ npm install
 
 2. Uygulamayı başlatın:
 ```bash
-npm start
+npm run dev
 ```
 
-3. Tarayıcınızda otomatik olarak açılacaktır: http://localhost:3000
+3. Tarayıcınızda açın: http://localhost:5173
 
 ## Nasıl Oynanır?
 
